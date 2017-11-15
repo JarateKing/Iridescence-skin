@@ -9,7 +9,7 @@ Fonts used: jahud, Product Sans, Open Sans
 ## Install
 1. Navigate to osu folder
 2. Go to skins folder
-3. Copy over the Hinterland folder
+3. Copy over the Iridescence folder
 
 ## Notes
 Only skinned for osu!std
